@@ -1,0 +1,3 @@
+0 low_waste_index
+1 medium_waste_index
+2 high_waste_index
